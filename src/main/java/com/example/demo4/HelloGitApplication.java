@@ -11,7 +11,7 @@ public class HelloGitApplication {
 
     @GetMapping("/helloGit")
     public String hello() {
-        return "Hello GIT!";
+        return "Hello Team..!";
     }
 
     public static void main(String[] args) {
